@@ -1,0 +1,146 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+
+    & h1 {
+        color: white;
+        font-weight: unset;
+        font-family: "Public Sans", sans-serif;
+    }
+}
+
+.header{
+    background-color: black;
+    padding-top: 10px;
+    padding-left: 10px;
+    display: flex;
+    height: auto;
+    align-items: center;
+
+    & ul{
+        list-style-type: none;
+        font-family: "Public Sans", sans-serif;
+        display: inline-block;
+        margin-top: 20px;
+        padding-left: 0;
+    }
+
+    & li{
+        display: inline-block;
+        padding: 20px;
+        color: white;
+        font-size: large;
+    }
+
+    & a{
+        text-decoration: none; !important;
+    }
+
+    & li:hover{
+        color:red;
+    }
+    .logo{
+        margin-top: 20px;
+    }
+}
+
+.main_container{
+    justify-content: center;
+    margin: 60px;
+}
+
+
+
+.category{
+    font-family: "Nanum Gothic", sans-serif;
+    text-align: left;
+    background-color: #fffbb0;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 3px;
+
+    #description{
+        margin-left: 30px;
+        font-size: 15px;
+    }
+
+    & summary {
+        list-style: none;
+        padding: 15px 15px 15px 30px;
+        cursor: pointer;
+    }
+
+    & summary::-webkit-details-marker {
+        display: none;
+    }
+
+    & thead{
+        font-family: "Nanum Gothic", sans-serif;
+    }
+
+    & table{
+        table-layout:fixed;
+        border-spacing: 0 10px;
+        padding: 30px;
+    }
+
+    & h1{
+        color: black; !important;
+        font-family: "Nanum Gothic", sans-serif;
+        text-align: left;
+        font-size: 25px;
+    }
+
+    & tr{
+        padding-bottom: 10px;
+    }
+
+    & a{
+        text-decoration: none;
+        color: deepskyblue;
+    }
+
+    .diff{
+        padding: 5px;
+        border-radius: 5px;
+        text-align: center;
+        color: white;
+        & span{
+            border: 1px solid black
+        }
+    }
+
+    .veryeasy{
+        background-color: #74e3e3;
+    }
+    .easy{
+        background-color: #49dc43;
+    }
+    .medium{
+        background-color: #ffac4f;
+    }
+    .hard{
+        background-color: #ff6565;
+    }
+    .veryhard{
+        background-color: #b03434;
+    }
+    .extreme{
+        background-color: #000000;
+    }
+    .unrated{
+        background-color: #9b9b9b;
+    }
+}
+
+details:not([open]) {
+    padding: 0; !important;
+}
+
+.prevent-select {
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* IE 10 and IE 11 */
+    user-select: none; /* Standard syntax */
+}
+

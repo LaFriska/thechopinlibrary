@@ -1,0 +1,167 @@
+[
+  {
+    "title": "Nocturnes",
+    "id": "nocturnes",
+    "description": "Chopin's most lyrical, romantic, and expressive pieces with richness in the harmony, and melody."
+  },
+  {
+    "name": "Nocturne No. 1",
+    "work": "Op. 9 No. 1",
+    "key": "B♭ Minor",
+    "editor": "Herrmann Scholtz",
+    "diff": "Medium",
+    "href": "data/chopin/nocturnes/nocturne1.pdf"
+  },
+  {
+    "name": "Nocturne No. 2",
+    "work": "Op. 9 No. 2",
+    "key": "E♭ Major",
+    "editor": "Herrmann Scholtz",
+    "diff": "Medium",
+    "href": "data/chopin/nocturnes/nocturne2.pdf"
+  },
+  {
+    "name": "Nocturne No. 3",
+    "work": "Op. 9 No. 3",
+    "key": "B Major",
+    "editor": "Herrmann Scholtz",
+    "diff": "Hard",
+    "href": "data/chopin/nocturnes/nocturne3.pdf"
+  },
+  {
+    "name": "Nocturne No. 4",
+    "work": "Op. 15 No. 1",
+    "key": "F Major",
+    "editor": "Herrmann Scholtz",
+    "diff": "Hard",
+    "href": "data/chopin/nocturnes/nocturne4.pdf"
+  },
+  {
+    "name": "Nocturne No. 5",
+    "work": "Op. 15 No. 2",
+    "key": "F# Major",
+    "editor": "Herrmann Scholtz",
+    "diff": "Hard",
+    "href": "data/chopin/nocturnes/nocturne5.pdf"
+  },
+  {
+    "name": "Nocturne No. 6",
+    "work": "Op. 15 No. 3",
+    "key": "G Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Easy",
+    "href": "data/chopin/nocturnes/nocturne6.pdf"
+  },
+  {
+    "name": "Nocturne No. 7",
+    "work": "Op. 27 No. 1",
+    "key": "C# Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/nocturnes/nocturne7.pdf"
+  },
+  {
+    "name": "Nocturne No. 9",
+    "work": "Op. 32 No. 1",
+    "key": "B Major",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/nocturnes/nocturne9.pdf"
+  },
+  {
+    "name": "Nocturne No. 10",
+    "work": "Op. 32 No. 2",
+    "key": "A♭ Major",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/nocturnes/nocturne10.pdf"
+  },
+  {
+    "name": "Nocturne No. 11",
+    "work": "Op. 37 No. 1",
+    "key": "G Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Easy",
+    "href": "data/chopin/nocturnes/nocturne11.pdf"
+  },
+  {
+    "name": "Nocturne No. 12",
+    "work": "Op. 37 No. 2",
+    "key": "G Major",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/nocturnes/nocturne12.pdf"
+  },
+  {
+    "name": "Nocturne No. 13",
+    "work": "Op. 48 No. 1",
+    "key": "C Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/nocturnes/nocturne13.pdf"
+  },
+  {
+    "name": "Nocturne No. 14",
+    "work": "Op. 48 No. 2",
+    "key": "F# Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/nocturnes/nocturne14.pdf"
+  },
+  {
+    "name": "Nocturne No. 15",
+    "work": "Op. 55 No. 1",
+    "key": "F Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Medium",
+    "href": "data/chopin/nocturnes/nocturne15.pdf"
+  },
+  {
+    "name": "Nocturne No. 16",
+    "work": "Op. 55 No. 2",
+    "key": "E♭ Major",
+    "editor": "Carl Mikuli",
+    "diff": "Medium",
+    "href": "data/chopin/nocturnes/nocturne16.pdf"
+  },
+  {
+    "name": "Nocturne No. 17",
+    "work": "Op. 62 No. 1",
+    "key": "B Major",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/nocturnes/nocturne17.pdf"
+  },
+  {
+    "name": "Nocturne No. 18",
+    "work": "Op. 62 No. 2",
+    "key": "E Major",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/nocturnes/nocturne18.pdf"
+  },
+  {
+    "name": "Nocturne No. 19",
+    "work": "Op. 72 No. 1",
+    "key": "E Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Medium",
+    "href": "data/chopin/nocturnes/nocturne19.pdf"
+  },
+  {
+    "name": "Nocturne No. 20",
+    "work": "P 1 No. 16",
+    "key": "C# Minor",
+    "editor": "Institut Fryderyka Chopina",
+    "diff": "Easy",
+    "href": "data/chopin/nocturnes/nocturne20.pdf"
+  },
+  {
+    "name": "Nocturne No. 21",
+    "work": "P 2 No. 8",
+    "key": "C Minor",
+    "editor": "Institut Fryderyka Chopina",
+    "diff": "Easy",
+    "href": "data/chopin/nocturnes/nocturne21.pdf"
+  }
+]

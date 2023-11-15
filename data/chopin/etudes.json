@@ -1,0 +1,199 @@
+[
+  {
+    "title": "Études",
+    "id": "etudes",
+    "description": "Chopin's challenging Études have revolutionised piano pedagogy, while also pertaining a beautiful imagery through its harmony."
+  },
+  {
+    "name": "Étude No. 1 \"Waterfall\"",
+    "work": "Op. 10 No. 1",
+    "key": "C Major",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/10-1.pdf"
+  },
+  {
+    "name": "Étude No. 2 \"Chromatique\"",
+    "work": "Op. 10 No. 2",
+    "key": "A Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/10-2.pdf"
+  },
+  {
+    "name": "Étude No. 3 \"Tristesse\"",
+    "work": "Op. 10 No. 3",
+    "key": "E Major",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/10-3.pdf"
+  },
+  {
+    "name": "Étude No. 4 \"Torrent\"",
+    "work": "Op. 10 No. 4",
+    "key": "C# Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/10-4.pdf"
+  },
+  {
+    "name": "Étude No. 5 \"Black Keys\"",
+    "work": "Op. 10 No. 5",
+    "key": "G♭ Major",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/10-5.pdf"
+  },
+  {
+    "name": "Étude No. 6 \"Lament\"",
+    "work": "Op. 10 No. 6",
+    "key": "E♭ Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/10-6.pdf"
+  },
+  {
+    "name": "Étude No. 7 \"Toccata\"",
+    "work": "Op. 10 No. 7",
+    "key": "C Major",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/10-7.pdf"
+  },
+  {
+    "name": "Étude No. 8 \"Sunshine\"",
+    "work": "Op. 10 No. 8",
+    "key": "F Major",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/10-8.pdf"
+  },
+  {
+    "name": "Étude No. 9",
+    "work": "Op. 10 No. 9",
+    "key": "F Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/etudes/10-9.pdf"
+  },
+  {
+    "name": "Étude No. 10",
+    "work": "Op. 10 No. 10",
+    "key": "A♭ Major",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/10-10.pdf"
+  },
+  {
+    "name": "Étude No. 11 \"Arpeggio\"",
+    "work": "Op. 10 No. 11",
+    "key": "E♭ Major",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/etudes/10-11.pdf"
+  },
+  {
+    "name": "Étude No. 12 \"Revolutionary\"",
+    "work": "Op. 10 No. 12",
+    "key": "C Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/etudes/10-12.pdf"
+  },
+  {
+    "name": "Étude No. 13 \"Aeolian Harp\"",
+    "work": "Op. 25 No. 1",
+    "key": "A♭ Major",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/etudes/etude13.pdf"
+  },
+  {
+    "name": "Étude No. 14 \"The Bees\"",
+    "work": "Op. 25 No. 2",
+    "key": "F Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/etudes/etude14.pdf"
+  },
+  {
+    "name": "Étude No. 15 \"The Knight\"",
+    "work": "Op. 25 No. 3",
+    "key": "F Major",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/etude15.pdf"
+  },
+  {
+    "name": "Étude No. 16 \"Paganini\"",
+    "work": "Op. 25 No. 4",
+    "key": "A Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/etudes/etude16.pdf"
+  },
+  {
+    "name": "Étude No. 17 \"Wrong Note\"",
+    "work": "Op. 25 No. 5",
+    "key": "E Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/etudes/etude17.pdf"
+  },
+  {
+    "name": "Étude No. 18 \"Double Thirds\"",
+    "work": "Op. 25 No. 6",
+    "key": "G# Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/etude18.pdf"
+  },
+  {
+    "name": "Étude No. 19",
+    "work": "Op. 25 No. 7",
+    "key": "C# Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Medium",
+    "href": "data/chopin/etudes/etude19.pdf"
+  },
+  {
+    "name": "Étude No. 20 \"Sixths\"",
+    "work": "Op. 25 No. 8",
+    "key": "D♭ Major",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/etude20.pdf"
+  },
+  {
+    "name": "Étude No. 21 \"Butterfly\"",
+    "work": "Op. 25 No. 9",
+    "key": "G♭ Major",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/etudes/etude21.pdf"
+  },
+  {
+    "name": "Étude No. 22 \"Octave\"",
+    "work": "Op. 25 No. 10",
+    "key": "B Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Hard",
+    "href": "data/chopin/etudes/etude22.pdf"
+  },
+  {
+    "name": "Étude No. 23 \"Winter Winds\"",
+    "work": "Op. 25 No. 11",
+    "key": "A Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/etude23.pdf"
+  },
+  {
+    "name": "Étude No. 24 \"Ocean\"",
+    "work": "Op. 25 No. 12",
+    "key": "C Minor",
+    "editor": "Carl Mikuli",
+    "diff": "Very Hard",
+    "href": "data/chopin/etudes/etude24.pdf"
+  }
+]

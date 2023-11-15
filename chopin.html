@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chopin</title>
+    <link rel="stylesheet" href="css/main.css">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+    <style>
+        #li2{
+            color: #ab0000;
+        }
+    </style>
+</head>
+<body>
+<div id="nav-placeholder" class="header"></div>
+<div class="main_container" id="main_container"></div>
+<script>
+    $(function(){
+        $("#nav-placeholder").load("nav.html");
+    });
+    const scriptParams = {
+        jsonpaths: [
+            "./data/chopin/nocturnes.json",
+            "./data/chopin/etudes.json",
+        ]
+    };
+</script>
+<script type="module" src="loader.js"></script>
+</body>
+</html>
