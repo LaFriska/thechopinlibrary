@@ -1,5 +1,5 @@
 export const main_template = `
-<details id="@id" class="category">
+<details id="@id" class="category section">
     <summary class="prevent-select">
       <h1>@title <span id="description">@description</span></h1>
     </summary>
