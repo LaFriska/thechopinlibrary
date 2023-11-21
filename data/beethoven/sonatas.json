@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Sonatas",
+    "id": "sonatas",
+    "description": "32 of Beethoven's famous sonatas full flavourful ideas, and difficulty ranging from intermediate to brutally challenging."
+  },
+  {
+    "name": "Sonata No. 1",
+    "work": "Op. 2 No. 1",
+    "key": "F Minor",
+    "editor": "Frederic Lamond",
+    "diff": "Medium",
+    "href": "data/beethoven/sonatas/sonata1.pdf"
+  },
+  {
+    "name": "Sonata No. 2",
+    "work": "Op. 2 No. 2",
+    "key": "A Major",
+    "editor": "Louis Köhler & Adolf Ruthardt ",
+    "diff": "Hard",
+    "href": "data/beethoven/sonatas/sonata2.pdf"
+  },
+  {
+    "name": "Sonata No. 3",
+    "work": "Op. 2 No. 3",
+    "key": "C Major",
+    "editor": "Frederic Lamond",
+    "diff": "Very Hard",
+    "href": "data/beethoven/sonatas/sonata3.pdf"
+  },
+  {
+    "name": "Sonata No. 4 \"Grand Sonata\"",
+    "work": "Op. 7",
+    "key": "E♭ Major",
+    "editor": "Frederic Lamond",
+    "diff": "Very Hard",
+    "href": "data/beethoven/sonatas/sonata4.pdf"
+  }
+]
