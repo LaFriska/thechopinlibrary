@@ -9,7 +9,7 @@
     "work": "Op. 2 No. 1",
     "key": "F Minor",
     "editor": "Frederic Lamond",
-    "diff": "Medium",
+    "diff": 6,
     "href": "data/beethoven/sonatas/sonata1.pdf"
   },
   {
@@ -17,7 +17,7 @@
     "work": "Op. 2 No. 2",
     "key": "A Major",
     "editor": "Louis Köhler & Adolf Ruthardt ",
-    "diff": "Hard",
+    "diff": 7,
     "href": "data/beethoven/sonatas/sonata2.pdf"
   },
   {
@@ -25,7 +25,7 @@
     "work": "Op. 2 No. 3",
     "key": "C Major",
     "editor": "Frederic Lamond",
-    "diff": "Very Hard",
+    "diff": 7,
     "href": "data/beethoven/sonatas/sonata3.pdf"
   },
   {
@@ -33,7 +33,199 @@
     "work": "Op. 7",
     "key": "E♭ Major",
     "editor": "Frederic Lamond",
-    "diff": "Very Hard",
+    "diff": 8,
     "href": "data/beethoven/sonatas/sonata4.pdf"
+  },
+  {
+    "name": "Sonata No. 5",
+    "work": "Op. 10 No. 1",
+    "key": "C Minor",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata5.pdf"
+  },
+  {
+    "name": "Sonata No. 6",
+    "work": "Op. 10 No. 2",
+    "key": "F Major",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata6.pdf"
+  },
+  {
+    "name": "Sonata No. 7",
+    "work": "Op. 10 No. 3",
+    "key": "D Major",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata7.pdf"
+  },
+  {
+    "name": "Sonata No. 8 \"Pathétique\"",
+    "work": "Op. 13",
+    "key": "C Minor",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata8.pdf"
+  },
+  {
+    "name": "Sonata No. 9",
+    "work": "Op. 14 No. 1",
+    "key": "E Major",
+    "editor": "Augener",
+    "diff": 6,
+    "href": "data/beethoven/sonatas/sonata9.pdf"
+  },
+  {
+    "name": "Sonata No. 10",
+    "work": "Op. 14 No. 2",
+    "key": "G Major",
+    "editor": "Augener",
+    "diff": 6,
+    "href": "data/beethoven/sonatas/sonata10.pdf"
+  },
+  {
+    "name": "Sonata No. 11",
+    "work": "Op. 22",
+    "key": "B♭ Major",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata11.pdf"
+  },
+  {
+    "name": "Sonata No. 12 \"Funeral March\"",
+    "work": "Op. 26",
+    "key": "A♭ Major",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata12.pdf"
+  },
+  {
+    "name": "Sonata No. 13 \"Quasi Una Fantasia\"",
+    "work": "Op. 27 No. 1",
+    "key": "E♭ Major",
+    "editor": "Augener",
+    "diff": 8,
+    "href": "data/beethoven/sonatas/sonata13.pdf"
+  },
+  {
+    "name": "Sonata No. 14 \"Moonlight\"",
+    "work": "Op. 27 No. 2",
+    "key": "C# Minor",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata14.pdf"
+  },
+  {
+    "name": "Sonata No. 15 \"Pastorale\"",
+    "work": "Op. 28",
+    "key": "D Major",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata15.pdf"
+  },
+  {
+    "name": "Sonata No. 16",
+    "work": "Op. 31 No. 1",
+    "key": "G Major",
+    "editor": "Augener",
+    "diff": 8,
+    "href": "data/beethoven/sonatas/sonata16.pdf"
+  },
+  {
+    "name": "Sonata No. 17 \"Tempest\"",
+    "work": "Op. 31 No. 2",
+    "key": "D Minor",
+    "editor": "Augener",
+    "diff": 8,
+    "href": "data/beethoven/sonatas/sonata17.pdf"
+  },
+  {
+    "name": "Sonata No. 18 \"Hunting\"",
+    "work": "Op. 31 No. 3",
+    "key": "E♭ Major",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata18.pdf"
+  },
+  {
+    "name": "Sonata No. 19",
+    "work": "Op. 49 No. 1",
+    "key": "G Minor",
+    "editor": "Augener",
+    "diff": 3,
+    "href": "data/beethoven/sonatas/sonata19.pdf"
+  },
+  {
+    "name": "Sonata No. 20",
+    "work": "Op. 49 No. 2",
+    "key": "G Major",
+    "editor": "Augener",
+    "diff": 3,
+    "href": "data/beethoven/sonatas/sonata20.pdf"
+  },
+  {
+    "name": "Sonata No. 21 \"Waldstein\"",
+    "work": "Op. 53",
+    "key": "C Major",
+    "editor": "Augener",
+    "diff": 9,
+    "href": "data/beethoven/sonatas/sonata21.pdf"
+  },
+  {
+    "name": "Sonata No. 22",
+    "work": "Op. 54",
+    "key": "F Major",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata22.pdf"
+  },
+  {
+    "name": "Sonata No. 23 \"Appassionata\"",
+    "work": "Op. 57",
+    "key": "F Minor",
+    "editor": "Augener",
+    "diff": 9,
+    "href": "data/beethoven/sonatas/sonata23.pdf"
+  },
+  {
+    "name": "Sonata No. 24 \"À Thérèse\"",
+    "work": "Op. 78",
+    "key": "F# Major",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata24.pdf"
+  },
+  {
+    "name": "Sonata No. 25 \"Sonatina\"",
+    "work": "Op. 79",
+    "key": "G Major",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata25.pdf"
+  },
+  {
+    "name": "Sonata No. 26 \"Les Adieux\"",
+    "work": "Op. 81a",
+    "key": "E♭ Major",
+    "editor": "Augener",
+    "diff": 8,
+    "href": "data/beethoven/sonatas/sonata26.pdf"
+  },
+  {
+    "name": "Sonata No. 27",
+    "work": "Op. 90",
+    "key": "E Minor",
+    "editor": "Augener",
+    "diff": 7,
+    "href": "data/beethoven/sonatas/sonata27.pdf"
+  },
+  {
+    "name": "Sonata No. 28",
+    "work": "Op. 101",
+    "key": "A Major",
+    "editor": "Augener",
+    "diff": 9,
+    "href": "data/beethoven/sonatas/sonata28.pdf"
   }
 ]
