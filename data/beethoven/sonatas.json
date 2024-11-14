@@ -227,5 +227,86 @@
     "editor": "Augener",
     "diff": 9,
     "href": "data/beethoven/sonatas/sonata28.pdf"
+  },
+  {
+    "name": "Sonata No. 29 \"Hammerklavier\"",
+    "work": "Op. 106",
+    "key": "B♭ Major",
+    "editor": "Augener",
+    "diff": 9,
+    "href": "data/beethoven/sonatas/sonata29.pdf"
+  },
+  {
+    "name": "Sonata No. 30",
+    "work": "Op. 109",
+    "key": "E Major",
+    "editor": "Augener",
+    "diff": 8,
+    "href": "data/beethoven/sonatas/sonata30.pdf"
+  },
+  {
+    "name": "Sonata No. 31",
+    "work": "Op. 110",
+    "key": "A♭ Major",
+    "editor": "Augener",
+    "diff": 8,
+    "href": "data/beethoven/sonatas/sonata31.pdf"
+  },
+  {
+    "name": "Sonata No. 32",
+    "work": "Op. 111",
+    "key": "C Minor",
+    "editor": "Augener",
+    "diff": 9,
+    "href": "data/beethoven/sonatas/sonata32.pdf"
+  },
+
+  {
+    "name": "Sonata No. 33",
+    "work": "-",
+    "key": "E♭ Major",
+    "editor": "Augener",
+    "diff": -1,
+    "href": "data/beethoven/sonatas/sonata33.pdf"
+  },
+  {
+    "name": "Sonata No. 34",
+    "work": "-",
+    "key": "F Minor",
+    "editor": "Augener",
+    "diff": -1,
+    "href": "data/beethoven/sonatas/sonata34.pdf"
+  },
+  {
+    "name": "Sonata No. 35",
+    "work": "-",
+    "key": "D Major",
+    "editor": "Augener",
+    "diff": -1,
+    "href": "data/beethoven/sonatas/sonata35.pdf"
+  },
+  {
+    "name": "Sonata No. 36",
+    "work": "-",
+    "key": "C Major",
+    "editor": "Augener",
+    "diff": -1,
+    "href": "data/beethoven/sonatas/sonata36.pdf"
+  },
+  {
+    "name": "Sonata No. 37 \"Sonatina\"",
+    "work": "Anh. 5 No. 1",
+    "key": "G Major",
+    "editor": "Augener",
+    "diff": 3,
+    "href": "data/beethoven/sonatas/sonata37.pdf"
+  },
+  {
+    "name": "Sonata No. 38 \"Sonatina\"",
+    "work": "Anh. 5 No. 2",
+    "key": "F Major",
+    "editor": "Augener",
+    "diff": 3,
+    "href": "data/beethoven/sonatas/sonata38.pdf"
   }
 ]
