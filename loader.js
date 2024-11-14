@@ -38,8 +38,7 @@ function load(jsonObject){
 
     for (let i = 1; i < jsonObject.length; i++) {
         let temp = table_row
-        let diffclass = jsonObject[i].diff.toLowerCase()
-        diffclass = diffclass.replace(' ', '')
+        let diffclass = jsonObject[i].diff === -1 ? "unrated" : "d" + jsonObject[i].diff
 
         temp = temp.replace("@name", jsonObject[i].name)
         temp = temp.replace("@work", jsonObject[i].work)

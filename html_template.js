@@ -13,7 +13,7 @@ export const main_template = `
         <th>WORK NUMBER</th>
         <th>KEY</th>
         <th>EDITOR</th>
-        <th style="text-align: center">DIFFICULTY</th>
+        <th style="text-align: center">HENLE GRADE</th>
     </tr>
     </thead>
     <colgroup>
@@ -21,7 +21,7 @@ export const main_template = `
         <col width="200px" /> <!--WORK NO.-->
         <col width="120px" /> <!--KEY-->
         <col width="200px" /> <!--EDITOR-->
-        <col width="150px" /> <!--DIFFICULTY-->
+        <col width="150px" /> <!--HENLE GRADE-->
         <col width="40px" /> <!--VIEW-->
     </colgroup>
     <tbody>
