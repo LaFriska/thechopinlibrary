@@ -1,3 +1,6 @@
+/*
+* Template used for loading rows displaying compositions.
+* */
 export const main_template = `
 <details id="@id" class="category section">
     <summary class="prevent-select">

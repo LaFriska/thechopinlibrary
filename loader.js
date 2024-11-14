@@ -3,8 +3,8 @@ import { table_row } from './html_template.js'
 
 const jsonpaths = scriptParams.jsonpaths
 
-iterate(0)
-function iterate(index){
+recurse(0)
+function recurse(index){
     fetch(jsonpaths[index])
         .then(response => {
             if (!response.ok) {
@@ -14,15 +14,19 @@ function iterate(index){
         })
         .then(data => {
             const jsonObject = JSON.parse(data);
-            serialize(jsonObject)
-            if(index < jsonpaths.length) iterate(index + 1);
+            load(jsonObject)
+            if(index < jsonpaths.length) recurse(index + 1);
         })
         .catch(error => {
             console.error('Fetching error:', error);
         });
 }
 
-function serialize(jsonObject){
+/*
+* TODO optimise code: recursively display the categories of each type of composition, but only load when the
+*  user clicks into a category.
+* */
+function load(jsonObject){
     let main_html = main_template
     let rows = new Array(jsonObject.length - 1) //Length subtracted by 1 to omit metadata
 
