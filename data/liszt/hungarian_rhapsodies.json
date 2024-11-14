@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Hungarian Rhapsodies",
+    "id": "hr",
+    "description": "Liszt's compositions based on Hungarian folk themes, all of which composed in rhapsody form."
+  },
+  {
+    "name": "Hungarian Rhapsody No. 1",
+    "work": "S. 244/1",
+    "key": "C# Minor",
+    "editor": "Emil von Sauer",
+    "diff": 8,
+    "href": "data/liszt/hr/hr1.pdf"
+  },
+  {
+    "name": "Hungarian Rhapsody No. 2",
+    "work": "S. 244/2",
+    "key": "C# Minor",
+    "editor": "John Orth",
+    "diff": 8,
+    "href": "data/liszt/hr/hr2.pdf"
+  }
+]
