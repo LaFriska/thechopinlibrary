@@ -44,7 +44,7 @@ function load(jsonObject){
         temp = temp.replace("@work", jsonObject[i].work)
         temp = temp.replace("@key", jsonObject[i].key)
         temp = temp.replace("@editor", jsonObject[i].editor)
-        temp = temp.replace("@diff", jsonObject[i].diff)
+        temp = temp.replace("@diff", jsonObject[i].diff === -1 ? "N/A" : jsonObject[i].diff)
         temp = temp.replace("@dclass", diffclass)
         temp = temp.replaceAll("@href", jsonObject[i].href)
         tbody = tbody + temp;

@@ -104,14 +104,13 @@ html, body{
 
     .diff{
         padding: 2px;
-        border-radius: 5px;
+        border-radius: 2px;
         text-align: center;
         color: white;
         & span{
             border: 1px solid black
         }
     }
-
 
     .d1{
         background-color: #00d2d2;
@@ -161,6 +160,7 @@ html, body{
     /*}*/
     .unrated{
         background-color: #9b9b9b;
+        font-size: 13px;
     }
 }
 
