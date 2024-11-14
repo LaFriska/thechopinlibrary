@@ -19,5 +19,61 @@
     "editor": "John Orth",
     "diff": 8,
     "href": "data/liszt/hr/hr2.pdf"
+  },
+  {
+    "name": "Hungarian Rhapsody No. 3",
+    "work": "S. 244/3",
+    "key": "B♭ Major",
+    "editor": "Emil von Sauer",
+    "diff": 5,
+    "href": "data/liszt/hr/hr3.pdf"
+  },
+  {
+    "name": "Hungarian Rhapsody No. 4",
+    "work": "S. 244/4",
+    "key": "E♭ Major",
+    "editor": "Emil von Sauer",
+    "diff": 8,
+    "href": "data/liszt/hr/hr4.pdf"
+  },
+  {
+    "name": "Hungarian Rhapsody No. 5 \"Héroïde élégiaque\"",
+    "work": "S. 244/5",
+    "key": "E Minor",
+    "editor": "Emil von Sauer",
+    "diff": 6,
+    "href": "data/liszt/hr/hr5.pdf"
+  },
+  {
+    "name": "Hungarian Rhapsody No. 6",
+    "work": "S. 244/6",
+    "key": "D♭ Major",
+    "editor": "Emil von Sauer",
+    "diff": 9,
+    "href": "data/liszt/hr/hr6.pdf"
+  },
+  {
+    "name": "Hungarian Rhapsody No. 7",
+    "work": "S. 244/7",
+    "key": "D Minor",
+    "editor": "Emil von Sauer",
+    "diff": 7,
+    "href": "data/liszt/hr/hr7.pdf"
+  },
+  {
+    "name": "Hungarian Rhapsody No. 8",
+    "work": "S. 244/8",
+    "key": "F# Minor",
+    "editor": "Emil von Sauer",
+    "diff": 6,
+    "href": "data/liszt/hr/hr8.pdf"
+  },
+  {
+    "name": "Hungarian Rhapsody No. 9 \"Pesther Karneval\"",
+    "work": "S. 244/9",
+    "key": "E♭ Major",
+    "editor": "Emil von Sauer",
+    "diff": 8,
+    "href": "data/liszt/hr/hr9.pdf"
   }
 ]
