@@ -11,5 +11,29 @@
     "editor": "Herrmann Scholtz",
     "diff": 8,
     "href": "data/chopin/ballades/ballade1.pdf"
+  },
+  {
+    "name": "Ballade No. 2",
+    "work": "Op. 38",
+    "key": "F Major",
+    "editor": "Herrmann Scholtz",
+    "diff": 8,
+    "href": "data/chopin/ballades/ballade2.pdf"
+  },
+  {
+    "name": "Ballade No. 3",
+    "work": "Op. 47",
+    "key": "A♭ Major",
+    "editor": "Herrmann Scholtz",
+    "diff": 8,
+    "href": "data/chopin/ballades/ballade3.pdf"
+  },
+  {
+    "name": "Ballade No. 4",
+    "work": "Op. 52",
+    "key": "F Minor",
+    "editor": "Herrmann Scholtz",
+    "diff": 9,
+    "href": "data/chopin/ballades/ballade4.pdf"
   }
 ]
