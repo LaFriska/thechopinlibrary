@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Ballades",
+    "id": "ballades",
+    "description": "Chopin's Ballades are Romantic piano masterpieces, combining lyrical beauty, dramatic contrasts, and narrative-like depth."
+  },
+  {
+    "name": "Ballade No. 1",
+    "work": "Op. 23",
+    "key": "G Minor",
+    "editor": "Herrmann Scholtz",
+    "diff": 8,
+    "href": "data/chopin/ballades/ballade1.pdf"
+  }
+]
