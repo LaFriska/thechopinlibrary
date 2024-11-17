@@ -72,7 +72,7 @@
     "name": "Waltz No. 9",
     "work": "Op. 69 No. 1",
     "key": "A♭ Major",
-    "editor": "",
+    "editor": "Carl Mikuli",
     "diff": 5,
     "href": "data/chopin/waltzes/waltz9.pdf"
   },
@@ -80,7 +80,7 @@
     "name": "Waltz No. 10",
     "work": "Op. 69 No. 2",
     "key": "B Minor",
-    "editor": "",
+    "editor": "Carl Mikuli",
     "diff": 4,
     "href": "data/chopin/waltzes/waltz10.pdf"
   },
@@ -88,7 +88,7 @@
     "name": "Waltz No. 11",
     "work": "Op. 70 No. 1",
     "key": "G♭ Major",
-    "editor": "",
+    "editor": "Claude Debussy",
     "diff": 5,
     "href": "data/chopin/waltzes/waltz11.pdf"
   },
@@ -96,7 +96,7 @@
     "name": "Waltz No. 12",
     "work": "Op. 70 No. 2",
     "key": "F Minor",
-    "editor": "",
+    "editor": "Claude Debussy",
     "diff": 5,
     "href": "data/chopin/waltzes/waltz12.pdf"
   },
@@ -104,7 +104,7 @@
     "name": "Waltz No. 13",
     "work": "Op. 70 No. 3",
     "key": "D♭ Major",
-    "editor": "",
+    "editor": "Claude Debussy",
     "diff": 5,
     "href": "data/chopin/waltzes/waltz13.pdf"
   },
@@ -112,7 +112,7 @@
     "name": "Waltz No. 14",
     "work": "KK IVa No. 13",
     "key": "A♭ Major",
-    "editor": "",
+    "editor": "Institut Fryderyka Chopina",
     "diff": 5,
     "href": "data/chopin/waltzes/waltz14.pdf"
   },
@@ -120,7 +120,7 @@
     "name": "Waltz No. 15",
     "work": "KK IVa No. 12",
     "key": "E Major",
-    "editor": "",
+    "editor": "Friedrich Chopin's Werke",
     "diff": 5,
     "href": "data/chopin/waltzes/waltz15.pdf"
   },
@@ -128,7 +128,7 @@
     "name": "Waltz No. 16",
     "work": "KK IVa No. 15",
     "key": "E Minor",
-    "editor": "",
+    "editor": "Claude Debussy",
     "diff": 6,
     "href": "data/chopin/waltzes/waltz16.pdf"
   },
@@ -136,7 +136,7 @@
     "name": "Waltz No. 17",
     "work": "KK IVb No. 11",
     "key": "A Minor",
-    "editor": "",
+    "editor": "Ewald Zimmermann",
     "diff": 3,
     "href": "data/chopin/waltzes/waltz17.pdf"
   },
@@ -144,7 +144,7 @@
     "name": "Waltz No. 18",
     "work": "KK IVb No. 10",
     "key": "E♭ Major",
-    "editor": "",
+    "editor": "Ewald Zimmermann",
     "diff": 4,
     "href": "data/chopin/waltzes/waltz18.pdf"
   }
