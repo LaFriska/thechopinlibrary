@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Sonatas",
+    "id": "sonatas-chopin",
+    "description": "Chopin's sonatas combine virtuosic brilliance with emotional depth, featuring lyrical melodies, dramatic contrasts, and innovative structures."
+  },
+  {
+    "name": "Sonata No. 1",
+    "work": "Op. 4",
+    "key": "C Minor",
+    "editor": "Carl Mikuli",
+    "diff": 7,
+    "href": "data/chopin/sonatas/sonata1.pdf"
+  },
+  {
+    "name": "Sonata No. 2",
+    "work": "Op. 35",
+    "key": "B♭ Minor",
+    "editor": "Carl Mikuli",
+    "diff": 9,
+    "href": "data/chopin/sonatas/sonata2.pdf"
+  },
+  {
+    "name": "Sonata No. 3",
+    "work": "Op. 58",
+    "key": "B Minor",
+    "editor": "",
+    "diff": 9,
+    "href": "data/chopin/sonatas/sonata3.pdf"
+  }
+]
