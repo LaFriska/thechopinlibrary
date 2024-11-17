@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Rondos",
+    "id": "rondos",
+    "description": "Beethoven's rondos blend recurring themes with contrasting episodes, balancing elegance and dramatic intensity with his innovative style."
+  },
+  {
+    "name": "Rondo in C Major",
+    "work": "Op. 51 No. 1",
+    "key": "C Major",
+    "editor": "Breitkopf und Härtel",
+    "diff": 4,
+    "href": "data/beethoven/rondos/rondo1.pdf"
+  },
+  {
+    "name": "Rondo in G Major",
+    "work": "Op. 51 No. 2",
+    "key": "G Major",
+    "editor": "Breitkopf und Härtel",
+    "diff": 6,
+    "href": "data/beethoven/rondos/rondo2.pdf"
+  },
+  {
+    "name": "Rondo in G Major \"Rage Over a Lost Penny\"",
+    "work": "Op. 129",
+    "key": "G Major",
+    "editor": "Breitkopf und Härtel",
+    "diff": 7,
+    "href": "data/beethoven/rondos/rondo3.pdf"
+  }
+]
