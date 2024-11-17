@@ -8,7 +8,7 @@
     "name": "Waltz No. 1 \"Grande Valse Brillante\"",
     "work": "Op. 18",
     "key": "E♭ Major",
-    "editor": "",
+    "editor": "Carl Mikuli",
     "diff": 6,
     "href": "data/chopin/waltzes/waltz1.pdf"
   },
@@ -16,7 +16,7 @@
     "name": "Waltz No. 2",
     "work": "Op. 34 No. 1",
     "key": "A♭ Major",
-    "editor": "",
+    "editor": "Claude Debussy",
     "diff": 6,
     "href": "data/chopin/waltzes/waltz2.pdf"
   },
@@ -24,7 +24,7 @@
     "name": "Waltz No. 3",
     "work": "Op. 34 No. 2",
     "key": "A Minor",
-    "editor": "",
+    "editor": "Claude Debussy",
     "diff": 5,
     "href": "data/chopin/waltzes/waltz3.pdf"
   },
@@ -32,7 +32,7 @@
     "name": "Waltz No. 4",
     "work": "Op. 34 No. 3",
     "key": "F Major",
-    "editor": "",
+    "editor": "Claude Debussy",
     "diff": 6,
     "href": "data/chopin/waltzes/waltz4.pdf"
   },
@@ -40,7 +40,7 @@
     "name": "Waltz No. 5",
     "work": "Op. 42",
     "key": "A♭ Major",
-    "editor": "",
+    "editor": "Claude Debussy",
     "diff": 7,
     "href": "data/chopin/waltzes/waltz5.pdf"
   },
@@ -48,7 +48,7 @@
     "name": "Waltz No. 6 \"Minute Waltz\"",
     "work": "Op. 64 No. 1",
     "key": "D♭ Major",
-    "editor": "",
+    "editor": "Carl Mikuli",
     "diff": 6,
     "href": "data/chopin/waltzes/waltz6.pdf"
   },
@@ -56,7 +56,7 @@
     "name": "Waltz No. 7",
     "work": "Op. 64 No. 2",
     "key": "C# Minor",
-    "editor": "",
+    "editor": "Carl Mikuli",
     "diff": 6,
     "href": "data/chopin/waltzes/waltz7.pdf"
   },
@@ -64,7 +64,7 @@
     "name": "Waltz No. 8",
     "work": "Op. 64 No. 3",
     "key": "A♭ Major",
-    "editor": "",
+    "editor": "Carl Mikuli",
     "diff": 6,
     "href": "data/chopin/waltzes/waltz8.pdf"
   },
