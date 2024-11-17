@@ -1,0 +1,63 @@
+[
+  {
+    "title": "7 Bagatelles",
+    "id": "7bagatelles",
+    "description": "Beethoven's Bagatelles are brief, inventive piano pieces that blend charm, humor, and lyrical depth, showcasing his mastery in miniature form."
+  },
+  {
+    "name": "7 Bagatelles No. 1",
+    "work": "Op. 33 No. 1",
+    "key": "E♭ Major",
+    "editor": "Breitkopf und Härtel",
+    "diff": 6,
+    "href": "data/beethoven/7bagatelles/7bag1.pdf"
+  },
+  {
+    "name": "7 Bagatelles No. 2",
+    "work": "Op. 33 No. 2",
+    "key": "C Major",
+    "editor": "Breitkopf und Härtel",
+    "diff": 6,
+    "href": "data/beethoven/7bagatelles/7bag2.pdf"
+  },
+  {
+    "name": "7 Bagatelles No. 3",
+    "work": "Op. 33 No. 3",
+    "key": "F Major",
+    "editor": "Breitkopf und Härtel",
+    "diff": 4,
+    "href": "data/beethoven/7bagatelles/7bag3.pdf"
+  },
+  {
+    "name": "7 Bagatelles No. 4",
+    "work": "Op. 33 No. 4",
+    "key": "A Major",
+    "editor": "Breitkopf und Härtel",
+    "diff": 5,
+    "href": "data/beethoven/7bagatelles/7bag4.pdf"
+  },
+  {
+    "name": "7 Bagatelles No. 5",
+    "work": "Op. 33 No. 5",
+    "key": "C Major",
+    "editor": "Breitkopf und Härtel",
+    "diff": 7,
+    "href": "data/beethoven/7bagatelles/7bag5.pdf"
+  },
+  {
+    "name": "7 Bagatelles No. 6",
+    "work": "Op. 33 No. 6",
+    "key": "D Major",
+    "editor": "Breitkopf und Härtel",
+    "diff": 4,
+    "href": "data/beethoven/7bagatelles/7bag6.pdf"
+  },
+  {
+    "name": "7 Bagatelles No. 7",
+    "work": "Op. 33 No. 7",
+    "key": "A♭ Major",
+    "editor": "Breitkopf und Härtel",
+    "diff": 6,
+    "href": "data/beethoven/7bagatelles/7bag7.pdf"
+  }
+]
