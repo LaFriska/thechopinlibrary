@@ -8,10 +8,18 @@
 </head>
 <body>
 <div id="nav-placeholder" class="header"></div>
+<div class="main_container" id="main_container"></div>
 <script>
     $(function(){
         $("#nav-placeholder").load("nav.html");
     });
+    const scriptParams = {
+        jsonpaths: [
+            "./data/bach/wtclavier1.json",
+            "./data/bach/wtclavier2.json",
+        ]
+    };
 </script>
+<script type="module" src="loader.js"></script>
 </body>
 </html>
