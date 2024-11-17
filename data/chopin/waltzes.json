@@ -1,0 +1,151 @@
+[
+  {
+    "title": "Waltzes",
+    "id": "waltzes",
+    "description": "Chopin's waltzes combine elegant, dance-like rhythms with lyrical melodies, ranging from playful to deeply introspective."
+  },
+  {
+    "name": "Waltz No. 1 \"Grande Valse Brillante\"",
+    "work": "Op. 18",
+    "key": "E♭ Major",
+    "editor": "",
+    "diff": 6,
+    "href": "data/chopin/waltzes/waltz1.pdf"
+  },
+  {
+    "name": "Waltz No. 2",
+    "work": "Op. 34 No. 1",
+    "key": "A♭ Major",
+    "editor": "",
+    "diff": 6,
+    "href": "data/chopin/waltzes/waltz2.pdf"
+  },
+  {
+    "name": "Waltz No. 3",
+    "work": "Op. 34 No. 2",
+    "key": "A Minor",
+    "editor": "",
+    "diff": 5,
+    "href": "data/chopin/waltzes/waltz3.pdf"
+  },
+  {
+    "name": "Waltz No. 4",
+    "work": "Op. 34 No. 3",
+    "key": "F Major",
+    "editor": "",
+    "diff": 6,
+    "href": "data/chopin/waltzes/waltz4.pdf"
+  },
+  {
+    "name": "Waltz No. 5",
+    "work": "Op. 42",
+    "key": "A♭ Major",
+    "editor": "",
+    "diff": 7,
+    "href": "data/chopin/waltzes/waltz5.pdf"
+  },
+  {
+    "name": "Waltz No. 6 \"Minute Waltz\"",
+    "work": "Op. 64 No. 1",
+    "key": "D♭ Major",
+    "editor": "",
+    "diff": 6,
+    "href": "data/chopin/waltzes/waltz6.pdf"
+  },
+  {
+    "name": "Waltz No. 7",
+    "work": "Op. 64 No. 2",
+    "key": "C# Minor",
+    "editor": "",
+    "diff": 6,
+    "href": "data/chopin/waltzes/waltz7.pdf"
+  },
+  {
+    "name": "Waltz No. 8",
+    "work": "Op. 64 No. 3",
+    "key": "A♭ Major",
+    "editor": "",
+    "diff": 6,
+    "href": "data/chopin/waltzes/waltz8.pdf"
+  },
+  {
+    "name": "Waltz No. 9",
+    "work": "Op. 69 No. 1",
+    "key": "A♭ Major",
+    "editor": "",
+    "diff": 5,
+    "href": "data/chopin/waltzes/waltz9.pdf"
+  },
+  {
+    "name": "Waltz No. 10",
+    "work": "Op. 69 No. 2",
+    "key": "B Minor",
+    "editor": "",
+    "diff": 4,
+    "href": "data/chopin/waltzes/waltz10.pdf"
+  },
+  {
+    "name": "Waltz No. 11",
+    "work": "Op. 70 No. 1",
+    "key": "G♭ Major",
+    "editor": "",
+    "diff": 5,
+    "href": "data/chopin/waltzes/waltz11.pdf"
+  },
+  {
+    "name": "Waltz No. 12",
+    "work": "Op. 70 No. 2",
+    "key": "F Minor",
+    "editor": "",
+    "diff": 5,
+    "href": "data/chopin/waltzes/waltz12.pdf"
+  },
+  {
+    "name": "Waltz No. 13",
+    "work": "Op. 70 No. 3",
+    "key": "D♭ Major",
+    "editor": "",
+    "diff": 5,
+    "href": "data/chopin/waltzes/waltz13.pdf"
+  },
+  {
+    "name": "Waltz No. 14",
+    "work": "KK IVa No. 13",
+    "key": "A♭ Major",
+    "editor": "",
+    "diff": 5,
+    "href": "data/chopin/waltzes/waltz14.pdf"
+  },
+  {
+    "name": "Waltz No. 15",
+    "work": "KK IVa No. 12",
+    "key": "E Major",
+    "editor": "",
+    "diff": 5,
+    "href": "data/chopin/waltzes/waltz15.pdf"
+  },
+  {
+    "name": "Waltz No. 16",
+    "work": "KK IVa No. 15",
+    "key": "E Minor",
+    "editor": "",
+    "diff": 6,
+    "href": "data/chopin/waltzes/waltz16.pdf"
+  },
+  {
+    "name": "Waltz No. 17",
+    "work": "KK IVb No. 11",
+    "key": "A Minor",
+    "editor": "",
+    "diff": 3,
+    "href": "data/chopin/waltzes/waltz17.pdf"
+  },
+  {
+    "name": "Waltz No. 18",
+    "work": "KK IVb No. 10",
+    "key": "E♭ Major",
+    "editor": "",
+    "diff": 4,
+    "href": "data/chopin/waltzes/waltz18.pdf"
+  }
+]
