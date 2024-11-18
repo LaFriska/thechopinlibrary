@@ -3,5 +3,53 @@
     "title": "The Well-Tempered Clavier I",
     "id": "wtclavier1",
     "description": "Bach's first revolutionary set of prelude and fugues which significantly impacted the development of Western classical music."
+  },
+  {
+    "name": "Prelude No. 1",
+    "work": "BWV 846",
+    "key": "C Major",
+    "editor": "Franz Kroll",
+    "diff": 2,
+    "href": "data/bach/wtclavier1/prelude1.pdf"
+  },
+  {
+    "name": "Fugue No. 1",
+    "work": "BWV 846",
+    "key": "C Major",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/fugue1.pdf"
+  },
+  {
+    "name": "Prelude No. 2",
+    "work": "BWV 847",
+    "key": "C Minor",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/prelude2.pdf"
+  },
+  {
+    "name": "Fugue No. 2",
+    "work": "BWV 847",
+    "key": "C Minor",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue2.pdf"
+  },
+  {
+    "name": "Prelude No. 3",
+    "work": "BWV 848",
+    "key": "C# Minor",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/prelude3.pdf"
+  },
+  {
+    "name": "Fugue No. 3",
+    "work": "BWV 848",
+    "key": "C# Minor",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/fugue3.pdf"
   }
 ]
