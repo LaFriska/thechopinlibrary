@@ -99,5 +99,293 @@
     "editor": "Franz Kroll",
     "diff": 5,
     "href": "data/bach/wtclavier1/fugue6.pdf"
+  },
+  {
+    "name": "Prelude No. 7",
+    "work": "BWV 852",
+    "key": "E♭ Major",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/prelude7.pdf"
+  },
+  {
+    "name": "Fugue No. 7",
+    "work": "BWV 852",
+    "key": "E♭ Major",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/fugue7.pdf"
+  },
+  {
+    "name": "Prelude No. 8",
+    "work": "BWV 853",
+    "key": "E♭ Minor",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/prelude8.pdf"
+  },
+  {
+    "name": "Fugue No. 8",
+    "work": "BWV 853",
+    "key": "D# Minor",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/fugue8.pdf"
+  },
+  {
+    "name": "Prelude No. 9",
+    "work": "BWV 854",
+    "key": "E Major",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/prelude9.pdf"
+  },
+  {
+    "name": "Fugue No. 9",
+    "work": "BWV 854",
+    "key": "E Major",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/fugue9.pdf"
+  },
+  {
+    "name": "Prelude No. 10",
+    "work": "BWV 855",
+    "key": "E Minor",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/prelude10.pdf"
+  },
+  {
+    "name": "Fugue No. 10",
+    "work": "BWV 855",
+    "key": "E Minor",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/fugue10.pdf"
+  },
+  {
+    "name": "Prelude No. 11",
+    "work": "BWV 856",
+    "key": "F Major",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/prelude11.pdf"
+  },
+  {
+    "name": "Fugue No. 11",
+    "work": "BWV 856",
+    "key": "F Major",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue11.pdf"
+  },
+  {
+    "name": "Prelude No. 12",
+    "work": "BWV 857",
+    "key": "F Minor",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/prelude12.pdf"
+  },
+  {
+    "name": "Fugue No. 12",
+    "work": "BWV 857",
+    "key": "F Minor",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/fugue12.pdf"
+  },
+  {
+    "name": "Prelude No. 13",
+    "work": "BWV 858",
+    "key": "F# Major",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/prelude13.pdf"
+  },
+  {
+    "name": "Fugue No. 13",
+    "work": "BWV 858",
+    "key": "F# Major",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue13.pdf"
+  },
+  {
+    "name": "Prelude No. 14",
+    "work": "BWV 859",
+    "key": "F# Minor",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/prelude14.pdf"
+  },
+  {
+    "name": "Fugue No. 14",
+    "work": "BWV 859",
+    "key": "F# Minor",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue14.pdf"
+  },
+  {
+    "name": "Prelude No. 15",
+    "work": "BWV 860",
+    "key": "G Major",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/prelude15.pdf"
+  },
+  {
+    "name": "Fugue No. 15",
+    "work": "BWV 860",
+    "key": "G Major",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/fugue15.pdf"
+  },
+  {
+    "name": "Prelude No. 16",
+    "work": "BWV 861",
+    "key": "G Minor",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/prelude16.pdf"
+  },
+  {
+    "name": "Fugue No. 16",
+    "work": "BWV 861",
+    "key": "G Minor",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/fugue16.pdf"
+  },
+  {
+    "name": "Prelude No. 17",
+    "work": "BWV 862",
+    "key": "A♭ Major",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/prelude17.pdf"
+  },
+  {
+    "name": "Fugue No. 17",
+    "work": "BWV 862",
+    "key": "A♭ Major",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue17.pdf"
+  },
+  {
+    "name": "Prelude No. 18",
+    "work": "BWV 863",
+    "key": "G# Minor",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/prelude18.pdf"
+  },
+  {
+    "name": "Fugue No. 18",
+    "work": "BWV 863",
+    "key": "G# Minor",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue18.pdf"
+  },
+  {
+    "name": "Prelude No. 19",
+    "work": "BWV 864",
+    "key": "A Major",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/prelude19.pdf"
+  },
+  {
+    "name": "Fugue No. 19",
+    "work": "BWV 864",
+    "key": "A Major",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/fugue19.pdf"
+  },
+  {
+    "name": "Prelude No. 20",
+    "work": "BWV 865",
+    "key": "A Minor",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/prelude20.pdf"
+  },
+  {
+    "name": "Fugue No. 20",
+    "work": "BWV 865",
+    "key": "A Minor",
+    "editor": "Franz Kroll",
+    "diff": 7,
+    "href": "data/bach/wtclavier1/fugue20.pdf"
+  },
+  {
+    "name": "Prelude No. 21",
+    "work": "BWV 866",
+    "key": "B♭ Major",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/prelude21.pdf"
+  },
+  {
+    "name": "Fugue No. 21",
+    "work": "BWV 866",
+    "key": "B♭ Major",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue21.pdf"
+  },
+  {
+    "name": "Prelude No. 22",
+    "work": "BWV 867",
+    "key": "B♭ Minor",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/prelude22.pdf"
+  },
+  {
+    "name": "Fugue No. 22",
+    "work": "BWV 867",
+    "key": "B♭ Minor",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue22.pdf"
+  },
+  {
+    "name": "Prelude No. 23",
+    "work": "BWV 868",
+    "key": "B Major",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/prelude23.pdf"
+  },
+  {
+    "name": "Fugue No. 23",
+    "work": "BWV 868",
+    "key": "B Major",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue23.pdf"
+  },
+  {
+    "name": "Prelude No. 24",
+    "work": "BWV 869",
+    "key": "B Minor",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/prelude24.pdf"
+  },
+  {
+    "name": "Fugue No. 24",
+    "work": "BWV 869",
+    "key": "B Minor",
+    "editor": "Franz Kroll",
+    "diff": 7,
+    "href": "data/bach/wtclavier1/fugue24.pdf"
   }
 ]
