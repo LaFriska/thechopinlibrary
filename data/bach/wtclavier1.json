@@ -39,7 +39,7 @@
   {
     "name": "Prelude No. 3",
     "work": "BWV 848",
-    "key": "C# Minor",
+    "key": "C# Major",
     "editor": "Franz Kroll",
     "diff": 6,
     "href": "data/bach/wtclavier1/prelude3.pdf"
@@ -47,9 +47,57 @@
   {
     "name": "Fugue No. 3",
     "work": "BWV 848",
-    "key": "C# Minor",
+    "key": "C# Major",
     "editor": "Franz Kroll",
     "diff": 6,
     "href": "data/bach/wtclavier1/fugue3.pdf"
+  },
+  {
+    "name": "Prelude No. 4",
+    "work": "BWV 849",
+    "key": "C# Minor",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/prelude4.pdf"
+  },
+  {
+    "name": "Fugue No. 4",
+    "work": "BWV 849",
+    "key": "C# Minor",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/fugue4.pdf"
+  },
+  {
+    "name": "Prelude No. 5",
+    "work": "BWV 850",
+    "key": "D Major",
+    "editor": "Franz Kroll",
+    "diff": 6,
+    "href": "data/bach/wtclavier1/prelude5.pdf"
+  },
+  {
+    "name": "Fugue No. 5",
+    "work": "BWV 850",
+    "key": "D Major",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue5.pdf"
+  },
+  {
+    "name": "Prelude No. 6",
+    "work": "BWV 851",
+    "key": "D Minor",
+    "editor": "Franz Kroll",
+    "diff": 4,
+    "href": "data/bach/wtclavier1/prelude6.pdf"
+  },
+  {
+    "name": "Fugue No. 6",
+    "work": "BWV 851",
+    "key": "D Minor",
+    "editor": "Franz Kroll",
+    "diff": 5,
+    "href": "data/bach/wtclavier1/fugue6.pdf"
   }
 ]
